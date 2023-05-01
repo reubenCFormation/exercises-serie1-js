@@ -15,7 +15,7 @@ var arr1=["Dog","Lizard","Cat","Mouse","Elephant"];
 var arr2=["Dog","Rat","Tiger","Wolf","Elephant","Frog"];
 
 
-//6) A partir de cette chaine de caractere, créer un tableau pour chaque virgule. (Il va falloir chercher pour voir comment transformer une chaine de caracter en tableau). Apres retransformer le tableau un chaine de caraecter mais cette fois si, sans virgules!
+//6) A partir de cette chaine de caractere, créer un tableau (chaque element apres nos virugles sera un element de notre tableau). (Il va falloir chercher pour voir comment transformer une chaine de caracter en tableau). Apres retransformer le tableau un chaine de caraecter mais cette fois si, sans virgules!
 var myString="This,will,be,an,array,seperated by,a comma"
 
 
